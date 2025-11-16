@@ -68,3 +68,13 @@ python main.py
 - Startup without sending: dry-run flag (if supported)
 - Custom channel/topic configuration via env
 - Replit: add secrets in the Secrets panel and click Run
+
+## Screenshots / Output
+
+![Preview](generated-icon.png)
+
+Example run output:
+
+```text
+[12:30] Digest sent: 5 tickers, 12 news items, 3 alerts
+```
